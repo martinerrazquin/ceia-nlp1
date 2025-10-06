@@ -1,4 +1,4 @@
-![banner](banner.png){height=200}
+<img src="/banner.png" height="300">
 
 # CEIA - Procesamiento del Lenguaje Natural 1
 
